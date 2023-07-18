@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hive-upgrade-acid" />
+        <module name="hive-hcatalog-server-extensions" />
+        <module name="hive-exec" />
+        <module name="hive-streaming" />
+        <module name="hive-common" />
+        <module name="hive-shims-0.23" />
+        <module name="hive-llap-server" />
+        <module name="hive-shims-scheduler" />
+        <module name="hive-hplsql" />
+        <module name="hive-serde" />
+        <module name="hive-service-rpc" />
+        <module name="hive-accumulo-handler" />
+        <module name="hive-llap-client" />
+        <module name="hive-hcatalog-core" />
+        <module name="hive-hcatalog-pig-adapter" />
+        <module name="hive-classification" />
+        <module name="hive-llap-tez" />
+        <module name="hive-contrib" />
+        <module name="hive-hbase-handler" />
+        <module name="hive-shims-common" />
+        <module name="hive-hcatalog-streaming" />
+        <module name="hive-llap-ext-client" />
+        <module name="hive-metastore" />
+        <module name="hive-druid-handler" />
+        <module name="hive-cli" />
+        <module name="hive-shims" />
+        <module name="hive-llap-common" />
+        <module name="hive-spark-client" />
+        <module name="hive-jdbc-handler" />
+        <module name="hive-vector-code-gen" />
+        <module name="hive-webhcat-java-client" />
+        <module name="hive-service" />
+        <module name="hive-kryo-registrator" />
+        <module name="hive-jdbc" />
+        <module name="hive-standalone-metastore" />
+        <module name="hive-webhcat" />
+        <module name="hive-beeline" />
+        <module name="hive-testutils" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
